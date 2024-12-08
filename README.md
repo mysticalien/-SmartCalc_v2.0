@@ -119,3 +119,6 @@ SmartCalc_v2.0 is open-source and distributed under the [MIT License](LICENSE).
 ---
 
 Feel free to reach out with any feedback or contributions!
+
+https://github.com/user-attachments/assets/7aa79199-fa82-4494-85c6-c0b60713b019
+
